@@ -1,2 +1,2 @@
 # KRIZEN
-this is my first repos
+This is my first repository.
